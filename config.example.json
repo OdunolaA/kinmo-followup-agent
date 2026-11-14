@@ -1,0 +1,11 @@
+{
+  "tracker_path": "~/Documents/Kinmo Solutions/Network Tracker.xlsx",
+  "sheet": "KS",
+  "channels": ["LinkedIn"],
+  "days_between": 5,
+  "max_followups": 2,
+  "sender_name": "Your name",
+  "sender_line": "Kinmo Solutions · building factories across Africa",
+  "use_claude": false,
+  "claude_model": "claude-sonnet-5-5"
+}

@@ -1,0 +1,9 @@
+# Your real contacts never go to GitHub
+config.json
+followups-log.json
+drafts/
+logs/
+*.xlsx
+!sample/network-tracker-sample.xlsx
+__pycache__/
+.DS_Store

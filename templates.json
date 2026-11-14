@@ -1,0 +1,57 @@
+{
+  "signature": "{sender}\n{sender_line}",
+  "icp": {
+    "Manufacturer": {
+      "pitch": "manufacturers add capacity, new lines or new plants without costly surprises, from equipment sizing to power and supply chain",
+      "short": "expanding capacity or adding a new line",
+      "phase": "a short capacity and equipment-sizing review"
+    },
+    "Exporter": {
+      "pitch": "exporters move from shipping raw materials to processing them into finished goods here in Nigeria",
+      "short": "processing your raw materials locally",
+      "phase": "a feasibility study for one product line"
+    },
+    "Importer": {
+      "pitch": "importers start manufacturing locally the products they currently bring in",
+      "short": "manufacturing locally what you import today",
+      "phase": "a feasibility study for one product line"
+    },
+    "PE Firm": {
+      "pitch": "investors de-risk factory investments, from technical due diligence to checking capex and production plans",
+      "short": "investing in factories or factory expansions",
+      "phase": "a focused technical due diligence on the biggest risks"
+    },
+    "Supplier": {
+      "pitch": "businesses set up and expand factories across Nigeria, which means regular demand for the right equipment and suppliers",
+      "short": "supplying factories that are being set up or expanded",
+      "phase": "a short call to compare notes on upcoming projects"
+    },
+    "default": {
+      "pitch": "businesses and investors get into manufacturing in Nigeria, from feasibility to a running factory",
+      "short": "getting into manufacturing",
+      "phase": "a short feasibility review"
+    }
+  },
+  "messages": {
+    "sales": {
+      "first": "Hi {first}, just following up on my earlier message. At Kinmo Solutions we help {icp}. Would a 20-minute call next week be useful to see whether there's a fit for {company}?",
+      "final": "Hi {first}, one last note from me. If {company} is thinking about {short} in the next year, I'd be glad to share how we'd approach it, with no obligation. If now isn't the right time, no problem at all, and I'll stay in touch here."
+    },
+    "proposal": {
+      "first": "Hi {first}, I hope you're well. I wanted to check whether you've had a chance to look at the proposal I sent on {proposal_date}. I'm happy to walk through it on a quick call, or adjust the scope if anything doesn't fit.",
+      "final": "Hi {first}, following up once more on the proposal for {company}. If timing or budget has changed, let me know and we can look at a smaller first phase. Either way, I'd really value your feedback."
+    },
+    "price": {
+      "first": "Hi {first}, thanks again for your comments on the proposal. On cost, one option is to start with {phase}, so you see the value before committing to the full scope. Would a short call to talk that through be useful?",
+      "final": "Hi {first}, I don't want to keep nudging, so this is my last note on the proposal. If a smaller first phase would work better for {company}'s budget, I'd be glad to put one together. Just let me know."
+    },
+    "partnership": {
+      "first": "Hi {first}, following up on my note about working together. Kinmo Solutions helps businesses build factories across Africa, and I think there's a natural fit with {company}'s work as {a_type}. Would you be open to a short call to explore referrals or projects we could do together?",
+      "final": "Hi {first}, one last nudge on a possible partnership. If the timing isn't right, no problem. I'll keep you in mind whenever a project needs what {company} does, and I'd welcome the same."
+    },
+    "network": {
+      "first": "Hi {first}, good to stay in touch. If anything on the manufacturing side comes up where I can help, or there's someone you think I should meet, I'd be glad to hear. Wishing you a great week.",
+      "final": "Hi {first}, just checking in. I hope things are going well at {company}. Happy to catch up whenever suits you."
+    }
+  }
+}
